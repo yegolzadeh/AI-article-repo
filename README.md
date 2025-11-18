@@ -1,6 +1,8 @@
+https://drive.google.com/drive/folders/1__78TAgtNWzaFtdAMKhJStIPi-vT9Uv-?usp=drive_link
+
+
 1.Artificial Intelligence Applications for Biomedical Cancer :
 https://drive.google.com/file/d/1mk-thllvwu-rhLO4q3ObtvYP2pLo-OY_/view?usp=drive_link
-
 
 2. Adoption of Artificial Intelligence in Agriculture in the Developing Nations:
 https://drive.google.com/file/d/1G5SJSbe4B4BuPUjBUR61f__ucB-gLvOL/view?usp=drive_link
