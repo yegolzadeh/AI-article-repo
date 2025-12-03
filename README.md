@@ -2,6 +2,14 @@
 
 
 
+1. 1. Ethics of Using AI and Big Data in  Agriculture The Case of a Large Agriculture Multinational
+
+**The main link of the article**  
+(https://drive.google.com/file/d/15TJPDLA3H-dBR5rV_yYmi86KEe8NxXFE/view?usp=drive_link) 
+
+**Article translation link**  
+https://drive.google.com/file/d/1As_uZ.../view?usp=sharing
+
 1. Artificial intelligence assisted identification of newborn
 
 **The main link of the article**  
@@ -10,13 +18,6 @@ https://drive.google.com/file/d/1j8TB.../view?usp=sharing
 **Article translation link**  
 https://drive.google.com/file/d/1As_uZ.../view?usp=sharing
 
-
-
-2.Artificial_Intelligence in Agriculture Corn kernel classification from few training samples:
-https://drive.google.com/file/d/1twndYumkWRz4lDyCGRfEEpF-es0XOVRk/view?usp=drive_link
-
-translation:
-https://drive.google.com/file/d/162iC8BA20AUAGi14JDGMijblKrehdIas/view?usp=drive_link
 
 
 3. Integrating artificial intelligence and Internet of Things (IoT) for enhanced  crop monitoring and management in precision agriculture:
