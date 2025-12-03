@@ -1,11 +1,15 @@
-https://drive.google.com/drive/folders/1__78TAgtNWzaFtdAMKhJStIPi-vT9Uv-?usp=drive_link
+# Article-about-artificial-intelligence-in-medical-engineering-and-Agriculture
 
 
-1. Ethics of Using AI and Big Data in  Agriculture The Case of a Large Agriculture Multinational :
-https://drive.google.com/file/d/15TJPDLA3H-dBR5rV_yYmi86KEe8NxXFE/view?usp=drive_link
 
-translation:
-https://drive.google.com/file/d/1IItTm9mII-UOBdBb3ulqaC6IvvrLtdFb/view?usp=drive_link
+1. Artificial intelligence assisted identification of newborn
+
+**The main link of the article**  
+https://drive.google.com/file/d/1j8TB.../view?usp=sharing  
+
+**Article translation link**  
+https://drive.google.com/file/d/1As_uZ.../view?usp=sharing
+
 
 
 2.Artificial_Intelligence in Agriculture Corn kernel classification from few training samples:
