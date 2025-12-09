@@ -31,13 +31,13 @@ https://drive.google.com/file/d/1V23d94ceGtY8wkfLwvFGFo4X3jMFAi1R/view?usp=drive
 
 ---
 
-4.Biomedical Diagnosis of Breast Cancer Using Deep Learning  and Multiple Classifies
+4. Diagnosis of heart diseases A fuzzy-logic based approach
 
 **The main link of the article**  
-https://drive.google.com/file/d/1XNnU5empMjmPtWcNrFt9nlh3LwEP0XIP/view?usp=drive_link
+https://drive.google.com/file/d/1Bn5coYZ4baOP-O6KcNMVRoNCxlFB3yAe/view?usp=drive_link
 
 **Article translation link**  
-https://drive.google.com/file/d/1aL8J9Hk2trUd4YtedaSkgZJurFClM6Jk/view?usp=drive_link
+https://drive.google.com/file/d/1EOuBJlB39NDVcf5nKRMlDKMT5dkioPBw/view?usp=drive_link
 
 ---
 
@@ -48,3 +48,13 @@ https://drive.google.com/file/d/10aiPhcud_M1iAxU_-9gTK70bAmVNYp7F/view?usp=drive
 
 **Article translation link**  
 https://drive.google.com/file/d/1kOmdbeKC7viaf2jHXVjgenEkq2vqT-_q/view?usp=drive_link
+
+---
+
+6.Biomedical Diagnosis of Breast Cancer Using Deep Learning  and Multiple Classifies
+
+**The main link of the article**  
+https://drive.google.com/file/d/1sLyx6YE4pwfvpAgc2XTZqc4yDNRvCav_/view?usp=drive_link
+
+**Article translation link**  
+https://drive.google.com/file/d/1OI8Hm8NF4fJx8pSeYsQZbYVEz1YVQoTd/view?usp=drive_link
