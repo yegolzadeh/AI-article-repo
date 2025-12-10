@@ -1,4 +1,7 @@
-# Article-about-artificial-intelligence-in-medical-engineering-and-Agriculture
+# Articles-about-artificial-intelligence-in-medical-engineering-and-Agriculture-
+# Yeganeh Golzadeh
+# Fall 2025
+
 ---
 
 1. Ethics of Using AI and Big Data in  Agriculture The Case of a Large Agriculture Multinational
@@ -41,6 +44,11 @@ https://drive.google.com/file/d/1EOuBJlB39NDVcf5nKRMlDKMT5dkioPBw/view?usp=drive
 
 ---
 
+**Article 4 implemention:**  
+https://github.com/yegolzadeh/heart-disease-risk-fuzzy-implement
+
+---
+
 5.Application of Artificial  Intelligence (AI) in Prosthetic and  Orthotic Rehabilitation
 
 **The main link of the article**  
@@ -58,3 +66,19 @@ https://drive.google.com/file/d/1sLyx6YE4pwfvpAgc2XTZqc4yDNRvCav_/view?usp=drive
 
 **Article translation link**  
 https://drive.google.com/file/d/1OI8Hm8NF4fJx8pSeYsQZbYVEz1YVQoTd/view?usp=drive_link
+
+---
+
+# 3 homework 
+
+**remote job interview**  
+https://drive.google.com/file/d/1Y_Wh4ALedtfJ7n10u4BPOiFNEXO8DHPi/view?usp=drive_link
+
+**5 questions about usage of AI Between children and teenagers**  
+https://drive.google.com/file/d/17nYyCUBwtTG_ddgk9WuCPEyhDhzy7OMY/view?usp=drive_link
+
+**freelancers job offers**  
+https://drive.google.com/file/d/17tkn9guSE7bhzeCZouQwFRlxls_1L5f9/view?usp=drive_link
+
+
+
