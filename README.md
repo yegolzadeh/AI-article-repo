@@ -44,7 +44,7 @@ https://drive.google.com/file/d/1EOuBJlB39NDVcf5nKRMlDKMT5dkioPBw/view?usp=drive
 ---
 
 **Article 4 implemention:**  
-https://github.com/yegolzadeh/heart-disease-risk-fuzzy-implement
+https://github.com/yegolzadeh/heart-disease-risk-fuzzy-implement-main
 
 ---
 
